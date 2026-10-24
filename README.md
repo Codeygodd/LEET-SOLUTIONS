@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Codeygodd/LEET-SOLUTIONS/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Codeygodd/LEET-SOLUTIONS/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Codeygodd/LEET-SOLUTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Codeygodd/LEET-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Codeygodd/LEET-SOLUTIONS/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Codeygodd/LEET-SOLUTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/Codeygodd/LEET-SOLUTIONS/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/Codeygodd/LEET-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Codeygodd/LEET-SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Codeygodd/LEET-SOLUTIONS/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Codeygodd/LEET-SOLUTIONS/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Codeygodd/LEET-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 ## Backtracking
 |  |
 | ------- |
